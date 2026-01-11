@@ -1,0 +1,6 @@
+streamlit
+Basic Knowledge Layer
+faiss-cpu
+numpy
+sentence-transformers
+requests

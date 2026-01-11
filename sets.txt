@@ -1,0 +1,432 @@
+Numbers
+
+A number is used to count, measure, and represent quantities.
+In mathematics, numbers are classified into different types based on their properties.
+
+Natural Numbers
+
+Natural numbers are the numbers used for counting.
+
+Natural numbers are:
+
+1, 2, 3, 4, 5, …
+
+The set of natural numbers is denoted by N.
+
+Whole Numbers
+
+Whole numbers include all natural numbers and zero.
+
+Whole numbers are:
+
+0, 1, 2, 3, 4, 5, …
+
+Integers
+
+Integers include negative numbers, zero, and positive numbers.
+
+Integers are:
+
+…, −3, −2, −1, 0, 1, 2, 3, …
+
+The set of integers is denoted by Z.
+
+Rational Numbers
+
+A rational number is a number that can be written in the form p/q,
+where p and q are integers and q ≠ 0.
+
+Examples of rational numbers:
+1/2, 3/4, −5/7, 2
+
+Real Numbers
+
+Real numbers include all numbers that can be represented on a number line.
+
+They include:
+
+Natural numbers
+
+Whole numbers
+
+Integers
+
+Rational numbers
+
+Irrational numbers
+
+The set of real numbers is denoted by R.
+
+Even Numbers
+
+An even number is a number that is divisible by 2.
+
+Examples:
+2, 4, 6, 8, 10
+
+Odd Numbers
+
+An odd number is a number that is not divisible by 2.
+
+Examples:
+1, 3, 5, 7, 9
+
+Prime Numbers
+
+A prime number is a natural number greater than 1 that has exactly two factors:
+1 and the number itself.
+
+Examples of prime numbers:
+2, 3, 5, 7, 11, 13
+
+Composite Numbers
+
+A composite number is a natural number greater than 1 that has more than two factors.
+
+Examples:
+4, 6, 8, 9, 10
+
+Factors
+
+A factor of a number is a number that divides it exactly without leaving a remainder.
+
+Example:
+Factors of 6 are 1, 2, 3, and 6.
+
+Multiples
+
+A multiple of a number is obtained by multiplying it by a whole number.
+
+Example:
+Multiples of 3 are 3, 6, 9, 12, …
+
+Divisibility
+
+A number a is divisible by b if a ÷ b gives a whole number.
+
+Examples:
+
+6 is divisible by 3
+
+7 is not divisible by 2
+
+Inequalities
+
+Inequalities are used to compare numbers.
+
+x < y means x is less than y
+
+x > y means x is greater than y
+
+x ≤ y means x is less than or equal to y
+
+x ≥ y means x is greater than or equal to y
+
+Range of Numbers
+
+A range describes numbers lying between two values.
+
+Examples:
+
+1 ≤ x ≤ 5 means x can be 1, 2, 3, 4, or 5
+
+3 < x < 7 means x can be 4, 5, or 6
+
+Properties in Mathematics
+
+A property is a rule or condition that elements must satisfy.
+
+Examples of properties:
+
+x is a prime number
+
+x is an even natural number
+
+x is divisible by 3
+
+Finite and Infinite Collections
+
+A finite collection has a limited number of elements.
+
+An infinite collection has no end.
+
+Examples:
+
+The set {2, 4, 6} is finite.
+
+The set of natural numbers is infinite.
+
+Mathematical Symbols Used
+
+= means equal to
+
+≠ means not equal to
+
+<, >, ≤, ≥ are comparison symbols
+
+{ } are used to represent collections
+
+
+SETS – INTRODUCTION (CLASS 11)
+
+A set is a well-defined collection of objects.
+The objects in a set are called its elements or members.
+The words objects, elements, and members mean the same thing.
+
+REPRESENTATION OF SETS
+
+Sets are usually represented by capital letters such as A, B, C, X, Y, Z.
+
+Elements of a set are represented by small letters such as a, b, c, x, y, z.
+
+BELONGS TO SYMBOL ( ∈ )
+
+If a is an element of a set A, we say
+“a belongs to A” and write:
+
+a ∈ A
+
+The symbol ∈ (epsilon) means belongs to.
+
+If b is not an element of set A, we write:
+
+b ∉ A
+
+This is read as “b does not belong to A”.
+
+Examples:
+
+Let V be the set of vowels in the English alphabet.
+Then: a ∈ V but b ∉ V.
+
+Let P be the set of prime factors of 30.
+Then: 3 ∈ P but 15 ∉ P.
+
+METHODS OF REPRESENTING A SET
+
+There are two main methods of representing a set:
+
+1. Roster (or Tabular) Form
+
+2. Set-Builder Form
+
+1. ROSTER FORM
+
+In roster form:
+
+All elements of a set are listed
+
+- Elements are separated by commas
+
+- The list is enclosed within braces { }
+
+Example:
+
+The set of all even positive integers less than 7 is:
+
+{2, 4, 6}
+
+More examples:
+
+The set of all natural numbers which divide 42 is:
+
+{1, 2, 3, 6, 7, 14, 21, 42}
+
+2. SET-BUILDER FORM
+
+In set-builder form:
+
+- Elements of a set are described by a common property
+
+- This property is possessed only by elements of that set
+
+Example:
+
+The set of vowels in the English alphabet can be written as:
+
+V = { x : x is a vowel in the English alphabet }
+
+This is read as:
+“The set of all x such that x is a vowel in the English alphabet.”
+
+Important Notes:
+
+The symbol x represents an element
+
+The symbol : means such that
+
+Braces { } mean the set of all
+
+MORE EXAMPLES OF SET-BUILDER FORM
+
+Let:
+
+A = { x : x is a natural number and 3 < x < 10 }
+
+This means:
+x is a natural number lying between 3 and 10
+
+So, the elements of set A are:
+
+{4, 5, 6, 7, 8, 9}
+
+CONVERSION FROM ROSTER TO SET-BUILDER FORM
+
+If the following sets are given in roster form:
+
+A = {1, 2, 3, 6, 7, 14, 21, 42}
+B = {a, e, i, o, u}
+C = {1, 3, 5, 7, 9, ...}
+
+Then they can be written in set-builder form as:
+
+A = { x : x is a natural number which divides 42 }
+B = { y : y is a vowel in the English alphabet }
+C = { z : z is an odd natural number }
+
+IMPORTANT STANDARD SETS IN MATHEMATICS
+
+N : the set of all natural numbers
+
+Z : the set of all integers
+
+Q : the set of all rational numbers
+
+R : the set of all real numbers
+
+Z⁺ : the set of all positive integers
+
+Q⁺ : the set of all positive rational numbers
+
+R⁺ : the set of all positive real numbers
+
+EMPTY SET (NULL SET / VOID SET)
+
+A set which does not contain any element is called the empty set, null set, or void set.
+
+The empty set is denoted by the symbol ∅ or { }.
+
+Examples of Empty Sets:
+
+Let
+A = { x : 1 < x < 2, x is a natural number }
+Then A is an empty set because there is no natural number between 1 and 2.
+
+Let
+B = { x : x² − 2 = 0 and x is a rational number }
+Then B is an empty set because the equation x² − 2 = 0 has no rational solution.
+
+Let
+C = { x : x is an even prime number greater than 2 }
+Then C is an empty set because 2 is the only even prime number.
+
+Let
+D = { x : x² = 4 and x is odd }
+Then D is an empty set because x² = 4 is not satisfied by any odd number.
+
+FINITE AND INFINITE SETS
+
+A set which is empty or contains a finite number of elements is called a finite set.
+A set which contains infinitely many elements is called an infinite set.
+
+Examples:
+
+Let W be the set of days of the week.
+Then W is a finite set.
+
+Let S be the set of solutions of the equation x² − 16 = 0.
+Then S is a finite set.
+
+Let G be the set of points on a line.
+Then G is an infinite set.
+
+Note:
+In roster form, it is not possible to list all elements of an infinite set because the number of elements is not finite.
+
+EQUAL AND UNEQUAL SETS
+
+Two sets A and B are said to be equal if they have exactly the same elements.
+We write A = B.
+
+If the sets do not have the same elements, they are said to be unequal and we write A ≠ B.
+
+Examples:
+
+Let
+A = {1, 2, 3, 4}
+B = {3, 1, 4, 2}
+Then A = B.
+
+Let
+A be the set of prime numbers less than 6
+P be the set of prime factors of 30
+
+Then A = P because both sets contain the elements {2, 3, 5}.
+
+SUBSETS
+
+A set A is said to be a subset of a set B if every element of A is also an element of B.
+
+This is written as:
+A ⊆ B
+
+In symbolic form:
+A ⊆ B if a ∈ A ⇒ a ∈ B
+
+This is read as:
+“A is a subset of B if every element of A implies that it belongs to B.”
+
+If A is not a subset of B, we write:
+A ⊄ B
+
+INTERVALS AS SUBSETS OF REAL NUMBERS (ℝ)
+
+Let a, b ∈ ℝ and a < b.
+
+Open Interval
+The set { y : a < y < b } is called an open interval and is denoted by (a, b).
+
+In this interval, the points a and b are not included.
+
+Closed Interval
+The set { x : a ≤ x ≤ b } is called a closed interval and is denoted by [a, b].
+
+Half-Open Intervals
+
+[a, b) = { x : a ≤ x < b }
+
+(a, b] = { x : a < x ≤ b }
+
+Examples:
+
+If A = (−3, 5) and B = [−7, 9], then A ⊆ B
+
+The set [0, ∞) represents all non-negative real numbers
+
+The set (−∞, 0) represents all negative real numbers
+
+The set (−∞, ∞) represents all real numbers
+
+Note:
+Every interval contains infinitely many points.
+
+Conversion Example:
+
+{ x : x ∈ ℝ, −5 < x ≤ 7 } can be written as the interval (−5, 7]
+
+The interval [−3, 5) can be written in set-builder form as { x : −3 ≤ x < 5 }
+
+UNIVERSAL SET
+
+In a particular context, the set that contains all objects under consideration is called the universal set.
+
+The universal set is usually denoted by U.
+
+Example:
+While studying numbers, the set of natural numbers may be considered as the universal set, and its subsets may include:
+
+the set of prime numbers
+
+the set of even numbers
+
+the set of odd numbers
