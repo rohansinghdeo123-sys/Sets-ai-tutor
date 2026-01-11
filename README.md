@@ -33,6 +33,7 @@ It answers questions from the Class 11 Sets chapter and generates practice MCQs.
 ## Authors
 
 **Rohan Singh** and  **Amit Munda**
+
 AI & Data Enthusiasts | RAG Developers  
 
 Built this project as part of my learning journey in:
@@ -40,5 +41,6 @@ Built this project as part of my learning journey in:
 - Large Language Models
 - Retrieval-Augmented Generation
 - Educational AI Systems
+
 
 
