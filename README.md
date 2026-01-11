@@ -26,3 +26,19 @@ It answers questions from the Class 11 Sets chapter and generates practice MCQs.
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+
+   ---
+
+## Authors
+
+**Rohan Singh** and  **Amit Munda**
+AI & Data Enthusiasts | RAG Developers  
+
+Built this project as part of my learning journey in:
+- AI
+- Large Language Models
+- Retrieval-Augmented Generation
+- Educational AI Systems
+
+
